@@ -1,0 +1,20 @@
+Datu kopa: Heart Disease, Cleveland apakškopa
+Oriģinālais datu fails: processed.cleveland.data
+Publicētājs: UCI Machine Learning Repository
+Datu kopas lapa: https://archive.ics.uci.edu/dataset/45/heart-disease
+Tiešā oriģinālā faila saite: https://archive.ics.uci.edu/ml/machine-learning-databases/heart-disease/processed.cleveland.data
+DOI: https://doi.org/10.24432/C52P4X
+Sākotnējā faila lejupielādes datums: 17.11.2026.
+Avota informācija atkārtoti pārbaudīta: 23.11.2026.
+Licence: Creative Commons Attribution 4.0 International (CC BY 4.0)
+Licences saite: https://creativecommons.org/licenses/by/4.0/
+SHA-256 (oriģinālajam failam): a74b7efa387bc9d108d7d0115d831fe9b414b29ae7124f331b622b4efa0427c8
+
+Piezīme: faila paplašinājums ir .data, bet saturs ir CSV formātā: 303 rindas,
+14 kolonnas, vērtības atdalītas ar komatiem, galvenes rindas nav.
+Nezināmās vērtības ir atzīmētas ar '?'. Fails projektā glabāts bez izmaiņām.
+
+Citēšana:
+Janosi, A., Steinbrunn, W., Pfisterer, M., & Detrano, R. (1989).
+Heart Disease [Dataset]. UCI Machine Learning Repository.
+https://doi.org/10.24432/C52P4X

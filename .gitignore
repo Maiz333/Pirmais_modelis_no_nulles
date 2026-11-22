@@ -1,0 +1,15 @@
+# Python virtuālā vide un kešatmiņa
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Operētājsistēmas un redaktora pagaidu faili
+.DS_Store
+Thumbs.db
+.vscode/
+
+# Arhīvi nav jāielādē GitHub repozitorijā
+*.zip
+*.rar
+*.7z
